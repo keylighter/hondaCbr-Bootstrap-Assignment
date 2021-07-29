@@ -1,1 +1,61 @@
+/* fonts  */
 
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* headersectioncss */
+#hero-section{
+background-color: #264653;
+}
+
+#buy-button{
+    padding: 24px 76px;
+    
+    border-radius: 7px;
+    background-color: #E76F51;
+}
+
+/* featured bike section  */
+
+#bike-text{
+    color: #E76F51;
+}
+
+.gray-image{
+    filter: grayscale(100%);
+}
+
+
+/* customer review section  */
+
+#client-say{
+    color: #E76F51;
+}
+.client-color{
+    color: #23A6F0;
+}
+.client-border{
+    border:1px solid #DEDEDE
+}
+
+.client-img{
+    border-radius: 90%;
+}
+
+.fa-star.color{
+    color: #E76F51;
+    
+    }
+.fa-star.no-color{
+    color:#AEAEAE;
+    opacity: 0.50;
+    }
+
+
+    /* Faq section  */
+    
+    #faq-color{
+        color: #E76F51;
+    }
